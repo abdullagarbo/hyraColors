@@ -1,0 +1,32 @@
+{
+  "colors": [
+    {
+      "_id": 1,
+      "color": "Röd"
+    },
+    {
+      "_id": 2,
+      "color": "Gul"
+    },
+    {
+      "_id": 3,
+      "color": "Blå"
+    },
+    {
+      "_id": 4,
+      "color": "Vit"
+    },
+    {
+      "_id": 5,
+      "color": "Svart"
+    },
+    {
+      "_id": 6,
+      "color": "Brun"
+    },
+    {
+      "_id": 7,
+      "color": "Grå"
+    }
+  ]
+}
