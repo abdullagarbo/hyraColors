@@ -2,31 +2,31 @@
   "colors": [
     {
       "_id": 1,
-      "color": "Röd"
+      "name": "Röd"
     },
     {
       "_id": 2,
-      "color": "Gul"
+      "name": "Gul"
     },
     {
       "_id": 3,
-      "color": "Blå"
+      "name": "Blå"
     },
     {
       "_id": 4,
-      "color": "Vit"
+      "name": "Vit"
     },
     {
       "_id": 5,
-      "color": "Svart"
+      "name": "Svart"
     },
     {
       "_id": 6,
-      "color": "Brun"
+      "name": "Brun"
     },
     {
       "_id": 7,
-      "color": "Grå"
+      "name": "Grå"
     }
   ]
 }
